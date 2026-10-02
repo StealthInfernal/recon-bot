@@ -1,0 +1,1650 @@
+{
+ "ac1.na.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ac1test.na.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ac2.na.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "analytics.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "HSTS,Netlify,jsDelivr",
+  "title": "DNSFilter Analytics"
+ },
+ "api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Envoy,HSTS",
+  "title": ""
+ },
+ "api2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "apiclickhouse.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "apidocs.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Browser Insights",
+  "title": "301 Moved Permanently"
+ },
+ "apimasterclickhouse.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "app-clickhouse.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "app-insights.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Google Tag Manager,HSTS,Vercel",
+  "title": "Dashboard"
+ },
+ "assets.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 404,
+  "tech": "HSTS,Vercel",
+  "title": ""
+ },
+ "auth-dev.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 302,
+  "tech": "Auth0,Cloudflare,HSTS,HTTP/3",
+  "title": ""
+ },
+ "auth.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 302,
+  "tech": "Auth0,Cloudflare,HSTS,HTTP/3",
+  "title": ""
+ },
+ "bd77gig.23609470t.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 307,
+  "tech": "",
+  "title": ""
+ },
+ "bhs1-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "blocked.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Nginx:1.27.5",
+  "title": "Website Filtered"
+ },
+ "blockedapi.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Envoy,HSTS",
+  "title": ""
+ },
+ "blockedv2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Nginx:1.27.5",
+  "title": "Website Filtered"
+ },
+ "blog.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Browser Insights",
+  "title": "301 Moved Permanently"
+ },
+ "brand.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 302,
+  "tech": "Cloudflare,HSTS",
+  "title": ""
+ },
+ "careers.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Browser Insights",
+  "title": "301 Moved Permanently"
+ },
+ "cdn.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights",
+  "title": "Uploadcare CDN"
+ },
+ "cdn.migrated.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "changelog.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Browser Insights",
+  "title": "301 Moved Permanently"
+ },
+ "chat.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Browser Insights",
+  "title": "301 Moved Permanently"
+ },
+ "chromeupdate.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Amazon CloudFront,Amazon Web Services,Cloudflare",
+  "title": ""
+ },
+ "clickhouse-app-insights.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "cname.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 404,
+  "tech": "HSTS,Vercel",
+  "title": ""
+ },
+ "compare.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3",
+  "title": ""
+ },
+ "ctiru-dev-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ctiru-dev.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ctiru-staging-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ctiru-staging.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dal3-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dal3-web.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dal9-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dal9.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ddapi.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ddns1.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "debug.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "HSTS,Next.js,Node.js,React,Vercel,Webpack",
+  "title": "Debug | DNSFilter"
+ },
+ "demo.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Nginx",
+  "title": "301 Moved Permanently"
+ },
+ "dev-analytics.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "HSTS,Netlify,jsDelivr",
+  "title": "DNSFilter Analytics"
+ },
+ "dev-api-aws.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-api-test.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-apidocs.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-app-vercel.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-blocked.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-clickhouse-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-debug.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-dns1.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-dns2-policyip1.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-dns2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-dns3-policyip1.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-dns3.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-doh-eero.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-doh-vip.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-doh.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Nginx",
+  "title": ""
+ },
+ "dev-interstitial.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-sidekiq-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-skm.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-unknown.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-urlupdates.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-web.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dev-wordpress.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dist-blocked-ua.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Nginx:1.27.5",
+  "title": "Website Filtered"
+ },
+ "dist-blocked.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Nginx:1.27.5",
+  "title": "Website Filtered"
+ },
+ "dist-interstitial-ua.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dist-interstitial.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns1-v6.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns1.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns101.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns102.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns103.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns104.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns105.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns106.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns2-v6.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns201.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns202.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns203.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns204.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns205.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns206.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns3.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns4.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns5.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dns6.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3",
+  "title": ""
+ },
+ "dnssec1.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "dnssec2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "docs.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "docstest.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "doh.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Nginx",
+  "title": ""
+ },
+ "dokku-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "download-dev.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Amazon CloudFront,Amazon Web Services,Cloudflare",
+  "title": ""
+ },
+ "download.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Amazon CloudFront,Amazon Web Services,Cloudflare",
+  "title": ""
+ },
+ "downloads-migrated.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "downloads-test.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Browser Insights",
+  "title": "403 Forbidden"
+ },
+ "downloads.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Amazon CloudFront,Amazon Web Services,Cloudflare",
+  "title": ""
+ },
+ "edns1.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "edns2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "edns3.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "edns4.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "eero-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Envoy,HSTS",
+  "title": ""
+ },
+ "eero-api2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "eero-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "email.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "HSTS,HTTP/3",
+  "title": ""
+ },
+ "engage.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3",
+  "title": ""
+ },
+ "error.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "HSTS,Nginx",
+  "title": "Website Filtered"
+ },
+ "events.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3",
+  "title": ""
+ },
+ "explore.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3",
+  "title": ""
+ },
+ "feedback.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Canny,HSTS,Linkedin Ads",
+  "title": "DNSFilter Feedback"
+ },
+ "get.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare",
+  "title": "301 Moved Permanently"
+ },
+ "gitlab.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "go.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare",
+  "title": "301 Moved Permanently"
+ },
+ "grd-connect-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 404,
+  "tech": "Cloudflare,Envoy",
+  "title": ""
+ },
+ "help.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 302,
+  "tech": "Cloudflare,Cloudflare Bot Management,Envoy,HSTS,Zendesk",
+  "title": ""
+ },
+ "help3.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "identity.staging-filtersh.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "iframe.app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "C3.js,HSTS,Vercel",
+  "title": ""
+ },
+ "influxdb.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "insights-dev-app-vercel.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "insights.app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "C3.js,HSTS,Vercel",
+  "title": ""
+ },
+ "insights.clickhouse-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "insights.dev-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "insights.staging-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "insights.timescale-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "interstitial.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ip.dev.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ip.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Cloudflare,Envoy",
+  "title": ""
+ },
+ "ip.test.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "k8s-dev-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "labs.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "lv52.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "mail.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "",
+  "title": "301 Moved"
+ },
+ "mb1-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "mb1-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "mb2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "mb5.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "mcp.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 404,
+  "tech": "Cloudflare,Cloudflare Browser Insights,Envoy,Express,Node.js",
+  "title": "Error"
+ },
+ "mspapi.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "mta.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "new-dev-blocked.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ninjio.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "partners.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Cloudflare,Cloudflare Browser Insights,HSTS,Vercel",
+  "title": "Partner Portal \u00b7 DNSFilter"
+ },
+ "partnertier.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "pax8.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 404,
+  "tech": "HSTS,Vercel",
+  "title": ""
+ },
+ "pax8.insights-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 404,
+  "tech": "HSTS,Vercel",
+  "title": ""
+ },
+ "pdp.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Nginx",
+  "title": ""
+ },
+ "pdp1.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Nginx",
+  "title": ""
+ },
+ "pdp2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Nginx",
+  "title": ""
+ },
+ "prod-api-aws.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "s-app-cdn.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 404,
+  "tech": "Amazon CloudFront,Amazon Web Services,Cloudflare",
+  "title": ""
+ },
+ "scim.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 307,
+  "tech": "",
+  "title": ""
+ },
+ "setmefree.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "sidekiq-manager.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "signups.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "skm.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "stage-analytics.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "HSTS,Netlify,jsDelivr",
+  "title": "DNSFilter Analytics"
+ },
+ "stage-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "staging-api-aws.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Envoy,HSTS",
+  "title": ""
+ },
+ "staging-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 301,
+  "tech": "Cloudflare,Envoy,HSTS",
+  "title": ""
+ },
+ "staging-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "staging-blocked.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "staging-clickhouse-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "staging-dns.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "staging-dns1.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "staging-doh.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 403,
+  "tech": "Nginx",
+  "title": ""
+ },
+ "staging-filtersh.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "staging-test.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "staging-timescale-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "staging-urlupdates.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 530,
+  "tech": "Cloudflare",
+  "title": ""
+ },
+ "staging.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "static.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Amazon CloudFront,Amazon S3,Amazon Web Services",
+  "title": "Nothing"
+ },
+ "stats.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "status.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Amazon CloudFront,Amazon Web Services,Atlassian Statuspage,Cloudflare,HSTS,HTTP/3,bowser,cdnjs,jQuery:3.5.1,reCAPTCHA",
+  "title": "DNSFilter Status"
+ },
+ "statuspage.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "testing-urlupdates.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "testing.urlupdates.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "threatfeed.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 401,
+  "tech": "Basic,HSTS,Netlify",
+  "title": ""
+ },
+ "timescale-app-insights.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "tmp-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "trust.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Amazon S3,Amazon Web Services,Cloudflare,HSTS,Merge",
+  "title": "DNSFilter Trust Center"
+ },
+ "try.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 404,
+  "tech": "Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,jQuery Migrate:1.2.1,jQuery:1.11.2",
+  "title": "Error 404 | Page not found"
+ },
+ "universal-login-app.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "unknown.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "HSTS,Nginx",
+  "title": "Website Filtered"
+ },
+ "updates.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "urlupdates.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "urlupdates2.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "urlupdates3.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "was20201.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "web-wordpress.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "web.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "webinars.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "wiki.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "ws-staging-api.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "www.blocked.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "www.blog.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "www.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": true,
+  "status": 200,
+  "tech": "Cloudflare,Cloudflare Bot Management,Google Tag Manager,HSTS,HTTP/3,HubSpot,HubSpot CMS Hub,Lightbox,Qualified,Storylane:2,jQuery Migrate:1.2.1,jQuery:1.11.2",
+  "title": "Best-Rated DNS Filtering Service | DNS Security | DNSFilter"
+ },
+ "www.get.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ },
+ "www.interstitial.dnsfilter.com": {
+  "first_seen": "2026-10-02T10:13:19.159281Z",
+  "last_seen": "2026-10-02T10:13:19.159281Z",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
+ }
+}
