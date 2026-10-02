@@ -1,2 +1,2 @@
 # One in-scope domain per line. Lines starting with # are ignored.
-# example.com
+microsoft.com
