@@ -90,7 +90,7 @@ def append_history(program, record):
 def update_index(program, total):
     path = f"{PROGRAMS_DIR}/index.json"
     index = load_json(path, [])
-    now = datetime.datetime.utcnow().isoformat() + "Z"
+    now = datetime.datetime.now(datetime.timezone.utc).isoformat()
     for entry in index:
         if entry["name"] == program:
             entry["last_scan"] = now
@@ -143,7 +143,7 @@ def check_dangling(host):
 
 def main():
     domain = sys.argv[1].strip().lower()
-    now_iso = datetime.datetime.utcnow().isoformat() + "Z"
+    now_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
     assets_path = f"{program_dir(domain)}/assets.json"
     state = load_json(assets_path, {})
     is_baseline = len(state) == 0
@@ -154,14 +154,16 @@ def main():
         tg_send(f"[{domain}] enumeration returned nothing this run")
         return
 
-    resolved = run(["dnsx", "-silent"], input_text="\n".join(hosts)).splitlines()
+    resolved = run(["dnsx", "-silent", "-t", "300", "-retry", "1"],
+                   input_text="\n".join(hosts), timeout=3000).splitlines()
     resolved = sorted(set(h.strip() for h in resolved if h.strip()))
     resolved_set = set(resolved)
 
     probed = {}
     if resolved:
         httpx_out = run(["httpx", "-silent", "-json", "-sc", "-title", "-td", "-cname",
-                          "-timeout", "8", "-threads", "50"], input_text="\n".join(resolved))
+                          "-timeout", "6", "-threads", "150", "-retries", "1"],
+                         input_text="\n".join(resolved), timeout=3000)
         for line in httpx_out.splitlines():
             parsed = parse_httpx_line(line)
             if parsed and parsed["url"]:
