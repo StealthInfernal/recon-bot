@@ -221,5 +221,20 @@
   "new": [],
   "new_count": 0,
   "total": 206
+ },
+ {
+  "changed": [],
+  "changed_count": 0,
+  "date": "2026-10-02T17:20:54.704813+00:00",
+  "new": [
+   "community.dnsfilter.com",
+   "dyndns.dnsfilter.com",
+   "s-app-api.dnsfilter.com",
+   "s-docs-api.dnsfilter.com",
+   "s-site-api.dnsfilter.com",
+   "s-site-cdn.dnsfilter.com"
+  ],
+  "new_count": 6,
+  "total": 212
  }
 ]
