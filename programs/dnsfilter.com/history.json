@@ -382,5 +382,15 @@
   "new": [],
   "new_count": 0,
   "total": 213
+ },
+ {
+  "changed": [
+   "analytics.dnsfilter.com"
+  ],
+  "changed_count": 1,
+  "date": "2026-10-08T04:11:47.308570+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 213
  }
 ]
