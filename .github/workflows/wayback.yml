@@ -1,0 +1,50 @@
+name: wayback-urls
+
+on:
+  workflow_dispatch:
+    inputs:
+      program:
+        description: "Program/domain to pull wayback URLs for (uses its latest saved subdomain list — no new enumeration)"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wayback-${{ inputs.program }}
+  cancel-in-progress: false
+
+jobs:
+  wayback:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+          cache: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: |
+          go install github.com/tomnomnom/waybackurls@latest
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+          pip install -r requirements.txt
+
+      - name: Run wayback scan
+        env:
+          TG_TOKEN: ${{ secrets.TG_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+        run: python3 scripts/wayback_scan.py "${{ inputs.program }}"
+
+      - name: Save state
+        run: |
+          git config user.name "recon-bot"
+          git config user.email "recon-bot@users.noreply.github.com"
+          git add programs
+          git diff --cached --quiet || (git commit -m "wayback scan update: ${{ inputs.program }}" && git push)
