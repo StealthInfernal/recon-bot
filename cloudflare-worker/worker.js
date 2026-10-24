@@ -1,11 +1,17 @@
 /**
  * Telegram -> GitHub Actions bridge.
  *
- * Message your bot:  /scan example.com
+ * Message your bot:
+ *   /scan example.com       runs recon.yml (full enumeration pass)
+ *   /wayback example.com    runs wayback.yml (uses that program's
+ *                            already-saved subdomain list, no new
+ *                            enumeration — fast, read-only OSINT)
+ *
  * This worker checks the message came from your chat, then tells GitHub
- * Actions to run the recon workflow for that domain. Deploy with
- * Cloudflare's free Workers plan (no card required) and point Telegram's
- * webhook at this worker's URL (see README in this folder for both steps).
+ * Actions to run the matching workflow for that domain/program. Deploy
+ * with Cloudflare's free Workers plan (no card required) and point
+ * Telegram's webhook at this worker's URL (see README in this folder
+ * for both steps).
  *
  * Required secrets (set with `wrangler secret put <NAME>`):
  *   TG_TOKEN       your bot token
@@ -47,10 +53,23 @@ export default {
         return new Response('ok');
       }
       await tgSend(env, `Starting scan for ${domain}…`);
-      const ok = await triggerWorkflow(env, domain);
+      const ok = await triggerWorkflow(env, 'recon.yml', { domain });
+      if (!ok) await tgSend(env, `Failed to trigger the workflow — check GH_TOKEN permissions.`);
+    } else if (cmd === '/wayback') {
+      const program = (parts[1] || '').toLowerCase();
+      if (!DOMAIN_RE.test(program)) {
+        await tgSend(env, 'Usage: /wayback example.com\n(pulls wayback URLs for subdomains already found for that program — run /scan on it at least once first)');
+        return new Response('ok');
+      }
+      await tgSend(env, `Pulling wayback URLs for ${program}'s known subdomains…`);
+      const ok = await triggerWorkflow(env, 'wayback.yml', { program });
       if (!ok) await tgSend(env, `Failed to trigger the workflow — check GH_TOKEN permissions.`);
     } else if (cmd === '/help' || cmd === '/start') {
-      await tgSend(env, 'Commands:\n/scan <domain> — enumerate and alert on new subdomains');
+      await tgSend(env,
+        'Commands:\n' +
+        '/scan <domain> — enumerate and alert on new subdomains\n' +
+        '/wayback <domain> — pull wayback URLs for that program\'s already-known subdomains'
+      );
     }
 
     return new Response('ok');
@@ -65,8 +84,8 @@ async function tgSend(env, text) {
   });
 }
 
-async function triggerWorkflow(env, domain) {
-  const url = `https://api.github.com/repos/${env.GH_OWNER}/${env.GH_REPO}/actions/workflows/recon.yml/dispatches`;
+async function triggerWorkflow(env, workflowFile, inputs) {
+  const url = `https://api.github.com/repos/${env.GH_OWNER}/${env.GH_REPO}/actions/workflows/${workflowFile}/dispatches`;
   const r = await fetch(url, {
     method: 'POST',
     headers: {
@@ -74,7 +93,7 @@ async function triggerWorkflow(env, domain) {
       Accept: 'application/vnd.github+json',
       'User-Agent': 'recon-bot-worker',
     },
-    body: JSON.stringify({ ref: 'main', inputs: { domain } }),
+    body: JSON.stringify({ ref: 'main', inputs }),
   });
   return r.status === 204;
 }
