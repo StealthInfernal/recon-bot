@@ -353,5 +353,20 @@
   ],
   "new_count": 1,
   "total": 335
+ },
+ {
+  "changed": [
+   "developer.rippling.com",
+   "www-l.rippling.com",
+   "www-staging-prod.rippling.com"
+  ],
+  "changed_count": 3,
+  "date": "2026-11-07T13:48:20.844930+00:00",
+  "new": [
+   "ai-gateway.rippling.com",
+   "api.ai-gateway.rippling.com"
+  ],
+  "new_count": 2,
+  "total": 337
  }
 ]
