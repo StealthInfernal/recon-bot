@@ -368,5 +368,20 @@
   ],
   "new_count": 2,
   "total": 337
+ },
+ {
+  "changed": [
+   "link.rippling.com"
+  ],
+  "changed_count": 1,
+  "date": "2026-11-07T22:17:00.079485+00:00",
+  "new": [
+   "*.rippling.com",
+   "*.sandbox.rippling.com",
+   "*.stage.rippling.com",
+   "*.us1.rippling.com"
+  ],
+  "new_count": 4,
+  "total": 341
  }
 ]
