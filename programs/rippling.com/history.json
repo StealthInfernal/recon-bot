@@ -401,5 +401,15 @@
   "new": [],
   "new_count": 0,
   "total": 341
+ },
+ {
+  "changed": [
+   "get.rippling.com"
+  ],
+  "changed_count": 1,
+  "date": "2026-11-08T22:18:55.446302+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 341
  }
 ]
