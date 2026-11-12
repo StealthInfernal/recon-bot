@@ -556,5 +556,15 @@
   "new": [],
   "new_count": 0,
   "total": 341
+ },
+ {
+  "changed": [
+   "autodiscover.rippling.com"
+  ],
+  "changed_count": 1,
+  "date": "2026-11-12T20:12:30.680326+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 341
  }
 ]
