@@ -800,5 +800,16 @@
   "new": [],
   "new_count": 0,
   "total": 342
+ },
+ {
+  "changed": [
+   "api.rippling.com",
+   "preview.us1.rippling.com"
+  ],
+  "changed_count": 2,
+  "date": "2026-11-17T01:56:05.666671+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 342
  }
 ]
