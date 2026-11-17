@@ -811,5 +811,16 @@
   "new": [],
   "new_count": 0,
   "total": 342
+ },
+ {
+  "changed": [
+   "notifications-platform.rippling.com",
+   "preview.rippling.com"
+  ],
+  "changed_count": 2,
+  "date": "2026-11-17T16:07:13.788042+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 342
  }
 ]

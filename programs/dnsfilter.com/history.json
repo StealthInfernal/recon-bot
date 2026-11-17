@@ -870,5 +870,15 @@
   "new": [],
   "new_count": 0,
   "total": 476
+ },
+ {
+  "changed": [
+   "brand.dnsfilter.com"
+  ],
+  "changed_count": 1,
+  "date": "2026-11-17T15:26:27.457674+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 476
  }
 ]
