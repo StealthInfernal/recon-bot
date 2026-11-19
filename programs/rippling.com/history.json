@@ -894,5 +894,35 @@
   "new": [],
   "new_count": 0,
   "total": 343
+ },
+ {
+  "changed": [
+   "ai-gateway.rippling.com",
+   "ats.rippling.com",
+   "ats.us1.rippling.com",
+   "authorized-assets.rippling.com",
+   "autodiscover.rippling.com",
+   "dcgn-sckt.rippling.com",
+   "dd.rippling.com",
+   "email.rippling.com",
+   "get.rippling.com",
+   "help-test.rippling.com",
+   "help.rippling.com",
+   "img.see.rippling.com",
+   "learn-partner.rippling.com",
+   "links.rippling.com",
+   "practice.rippling.com",
+   "status.rippling.com",
+   "try.rippling.com",
+   "url4456.rippling.com",
+   "www-j.rippling.com",
+   "www-m.rippling.com",
+   "www.rippling.com"
+  ],
+  "changed_count": 21,
+  "date": "2026-11-19T00:17:59.388812+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 343
  }
 ]
