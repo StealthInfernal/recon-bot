@@ -1068,5 +1068,26 @@
   "new": [],
   "new_count": 0,
   "total": 344
+ },
+ {
+  "changed": [
+   "ats.eu1.rippling.com",
+   "cdn.rippling.com",
+   "get.rippling.com",
+   "go.rippling.com",
+   "hardware-cdn.rippling.com",
+   "notifications-platform.rippling.com",
+   "r.see.rippling.com",
+   "webinars-zuddl.rippling.com",
+   "www-j.rippling.com",
+   "www-preprod.rippling.com",
+   "www-staging.rippling.com",
+   "zendesk4.rippling.com"
+  ],
+  "changed_count": 12,
+  "date": "2026-11-21T23:24:38.207309+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 344
  }
 ]

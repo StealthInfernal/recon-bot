@@ -966,5 +966,15 @@
   "new": [],
   "new_count": 0,
   "total": 477
+ },
+ {
+  "changed": [
+   "dev-analytics.dnsfilter.com"
+  ],
+  "changed_count": 1,
+  "date": "2026-11-21T22:44:01.479910+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 477
  }
 ]
