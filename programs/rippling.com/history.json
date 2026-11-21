@@ -1036,5 +1036,17 @@
   "new": [],
   "new_count": 0,
   "total": 343
+ },
+ {
+  "changed": [
+   "ats.eu1.rippling.com"
+  ],
+  "changed_count": 1,
+  "date": "2026-11-21T06:02:32.639258+00:00",
+  "new": [
+   "url5373.rippling.com"
+  ],
+  "new_count": 1,
+  "total": 344
  }
 ]
