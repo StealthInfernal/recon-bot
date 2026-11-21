@@ -1048,5 +1048,25 @@
   ],
   "new_count": 1,
   "total": 344
+ },
+ {
+  "changed": [
+   "a-cdn.rippling.com",
+   "ai-gateway.rippling.com",
+   "ats.us1.rippling.com",
+   "help1.rippling.com",
+   "learn.rippling.com",
+   "lr.rippling.com",
+   "preview.rippling.com",
+   "preview.us1.rippling.com",
+   "url4456.rippling.com",
+   "www-sales.rippling.com",
+   "www-staging-prod.rippling.com"
+  ],
+  "changed_count": 11,
+  "date": "2026-11-21T14:47:22.570843+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 344
  }
 ]
