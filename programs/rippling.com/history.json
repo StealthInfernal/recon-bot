@@ -1108,5 +1108,24 @@
   "new": [],
   "new_count": 0,
   "total": 344
+ },
+ {
+  "changed": [
+   "a-api.rippling.com",
+   "app.rippling.com",
+   "autodiscover.rippling.com",
+   "dcgn-md.rippling.com",
+   "dd.rippling.com",
+   "trust.rippling.com",
+   "www-a.rippling.com",
+   "www-e.rippling.com",
+   "zendesk2.rippling.com",
+   "zendesk3.rippling.com"
+  ],
+  "changed_count": 10,
+  "date": "2026-11-22T14:38:47.182220+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 344
  }
 ]
