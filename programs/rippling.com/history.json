@@ -1089,5 +1089,24 @@
   "new": [],
   "new_count": 0,
   "total": 344
+ },
+ {
+  "changed": [
+   "api.ai-gateway.rippling.com",
+   "api.rippling.com",
+   "ats.us1.rippling.com",
+   "mcp.rippling.com",
+   "partnerhub.rippling.com",
+   "status-test.rippling.com",
+   "status.rippling.com",
+   "www-f.rippling.com",
+   "www-k.rippling.com",
+   "www-sales.rippling.com"
+  ],
+  "changed_count": 10,
+  "date": "2026-11-22T05:29:13.100461+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 344
  }
 ]
