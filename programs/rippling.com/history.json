@@ -1226,5 +1226,20 @@
   "new": [],
   "new_count": 0,
   "total": 344
+ },
+ {
+  "changed": [
+   "a-cdn.rippling.com",
+   "mcp.rippling.com",
+   "sava.rippling.com",
+   "www-a.rippling.com",
+   "www-g.rippling.com",
+   "zendesk3.rippling.com"
+  ],
+  "changed_count": 6,
+  "date": "2026-11-24T04:27:09.974984+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 344
  }
 ]
