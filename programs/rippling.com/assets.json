@@ -1,7 +1,7 @@
 {
  "*.rippling.com": {
   "first_seen": "2026-11-07T22:17:00.079485+00:00",
-  "last_seen": "2026-11-21T23:24:38.207309+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -9,7 +9,7 @@
  },
  "*.sandbox.rippling.com": {
   "first_seen": "2026-11-07T22:17:00.079485+00:00",
-  "last_seen": "2026-11-21T23:24:38.207309+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -17,7 +17,7 @@
  },
  "*.stage.rippling.com": {
   "first_seen": "2026-11-07T22:17:00.079485+00:00",
-  "last_seen": "2026-11-21T23:24:38.207309+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -25,7 +25,7 @@
  },
  "*.us1.rippling.com": {
   "first_seen": "2026-11-07T22:17:00.079485+00:00",
-  "last_seen": "2026-11-21T23:24:38.207309+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -81,7 +81,7 @@
  },
  "65edb7671a4b484c9f147594e84dd908.api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -89,23 +89,23 @@
  },
  "a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
   "status": null,
   "tech": null,
   "title": null
  },
  "a-cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": true,
-  "status": 404,
-  "tech": "Amazon CloudFront,Amazon Web Services,Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3",
-  "title": ""
+  "status": null,
+  "tech": null,
+  "title": null
  },
  "admin.ats.us1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -113,7 +113,7 @@
  },
  "admin.link.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -121,7 +121,7 @@
  },
  "ads.dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -129,7 +129,7 @@
  },
  "ai-gateway.rippling.com": {
   "first_seen": "2026-11-07T13:48:20.844930+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -137,7 +137,7 @@
  },
  "analytics.ats.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -145,7 +145,7 @@
  },
  "api.ai-gateway.rippling.com": {
   "first_seen": "2026-11-07T13:48:20.844930+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -153,7 +153,7 @@
  },
  "api.cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -161,7 +161,7 @@
  },
  "api.dcgn-fe.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -169,7 +169,7 @@
  },
  "api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -177,7 +177,7 @@
  },
  "app.dd.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -185,8 +185,8 @@
  },
  "app.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
   "status": null,
   "tech": null,
   "title": null
@@ -201,24 +201,24 @@
  },
  "ats.eu1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 308,
+  "tech": "Cloudflare,Cloudflare Bot Management,Envoy,HSTS,HTTP/3",
+  "title": ""
  },
  "ats.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": true,
-  "status": null,
-  "tech": null,
-  "title": null
+  "status": 308,
+  "tech": "Cloudflare,Cloudflare Bot Management,Envoy,HSTS,HTTP/3",
+  "title": ""
  },
  "ats.us1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
   "status": null,
   "tech": null,
   "title": null
@@ -241,15 +241,15 @@
  },
  "authorized-assets.rippling.com": {
   "first_seen": "2026-11-13T14:31:07.490004+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": true,
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": false,
   "status": null,
   "tech": null,
   "title": null
  },
  "autoconfig.link.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -257,7 +257,7 @@
  },
  "autodiscover.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -265,7 +265,7 @@
  },
  "aws.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -273,7 +273,7 @@
  },
  "azure.dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -281,7 +281,7 @@
  },
  "cdn-staging.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -289,7 +289,7 @@
  },
  "cdn.ats.us1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -297,7 +297,7 @@
  },
  "cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -305,7 +305,7 @@
  },
  "cdn.stage.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -329,7 +329,7 @@
  },
  "championscircle.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -345,7 +345,7 @@
  },
  "cij.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -361,7 +361,7 @@
  },
  "click.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -377,7 +377,7 @@
  },
  "cloud.dd.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -401,7 +401,7 @@
  },
  "community.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -417,7 +417,7 @@
  },
  "controlplane.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -433,7 +433,7 @@
  },
  "customer-software.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -457,7 +457,7 @@
  },
  "data.dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -465,7 +465,7 @@
  },
  "db.cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -473,7 +473,7 @@
  },
  "dcgn-be.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -481,7 +481,7 @@
  },
  "dcgn-fe.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -489,7 +489,7 @@
  },
  "dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -497,7 +497,7 @@
  },
  "dcgn-sckt.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -505,7 +505,7 @@
  },
  "dd.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -513,7 +513,7 @@
  },
  "demo.a-cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -521,7 +521,7 @@
  },
  "demo.dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -529,7 +529,7 @@
  },
  "demo.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -553,7 +553,7 @@
  },
  "developer.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -561,7 +561,7 @@
  },
  "discuss.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -577,7 +577,7 @@
  },
  "docs.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -585,7 +585,7 @@
  },
  "docs.dcgn-fe.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -593,7 +593,7 @@
  },
  "docs.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -601,7 +601,7 @@
  },
  "downloads.dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -625,7 +625,7 @@
  },
  "email.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -649,7 +649,7 @@
  },
  "eu1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -665,7 +665,7 @@
  },
  "events.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -681,7 +681,7 @@
  },
  "files.cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -721,7 +721,7 @@
  },
  "forum.ats.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -729,7 +729,7 @@
  },
  "forum.cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -737,7 +737,7 @@
  },
  "frontend-dev.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -753,7 +753,7 @@
  },
  "ftp.ats.us1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -761,7 +761,7 @@
  },
  "ftp.link.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -769,7 +769,7 @@
  },
  "gcp.a-cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -777,7 +777,7 @@
  },
  "gcp.app.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -785,11 +785,11 @@
  },
  "get.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 404,
+  "tech": "Amazon CloudFront,Amazon S3,Amazon Web Services,Envoy,HSTS",
+  "title": ""
  },
  "gh-mail.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
@@ -809,7 +809,7 @@
  },
  "go.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -817,7 +817,7 @@
  },
  "grafana.cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -825,7 +825,7 @@
  },
  "hardware-cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -841,11 +841,11 @@
  },
  "help-test.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 302,
+  "tech": "",
+  "title": ""
  },
  "help-test0.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
@@ -857,23 +857,23 @@
  },
  "help.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
   "status": null,
   "tech": null,
   "title": null
  },
  "help1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": true,
-  "status": 301,
-  "tech": "Cloudflare,HSTS,HTTP/3",
-  "title": ""
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
  },
  "im.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -881,7 +881,7 @@
  },
  "img.see.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -889,7 +889,7 @@
  },
  "inbox.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -905,7 +905,7 @@
  },
  "instapage.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -913,7 +913,7 @@
  },
  "int.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -921,7 +921,7 @@
  },
  "int.app.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -929,7 +929,7 @@
  },
  "int.ats.us1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -937,7 +937,7 @@
  },
  "jenkins.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -945,7 +945,7 @@
  },
  "jpmc-ds.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -953,7 +953,7 @@
  },
  "jpmc-uat-ds.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -961,7 +961,7 @@
  },
  "jpmc-uat.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -969,7 +969,7 @@
  },
  "jpmc.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -977,7 +977,7 @@
  },
  "jpmcds.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -985,7 +985,7 @@
  },
  "jpmcuat.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -993,7 +993,7 @@
  },
  "jpmcuatds.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1001,7 +1001,7 @@
  },
  "k8s.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1009,7 +1009,7 @@
  },
  "k8s.cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1017,7 +1017,7 @@
  },
  "kubernetes.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1025,7 +1025,7 @@
  },
  "learn-partner.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1033,7 +1033,7 @@
  },
  "learn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1041,15 +1041,15 @@
  },
  "link.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": true,
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": false,
   "status": null,
   "tech": null,
   "title": null
  },
  "links.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1057,7 +1057,7 @@
  },
  "live.app.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1065,7 +1065,7 @@
  },
  "login.dd.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1073,7 +1073,7 @@
  },
  "lr.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1081,7 +1081,7 @@
  },
  "mail1.dd.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1089,7 +1089,7 @@
  },
  "mail1.link.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1097,7 +1097,7 @@
  },
  "mail2.link.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1105,15 +1105,15 @@
  },
  "mcp.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": true,
-  "status": 403,
-  "tech": "Cloudflare,HSTS",
-  "title": "Attention Required! | Cloudflare"
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
  },
  "meetings.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1121,7 +1121,7 @@
  },
  "munki-dev.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1129,7 +1129,7 @@
  },
  "munki.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1137,7 +1137,7 @@
  },
  "mx.link.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1145,7 +1145,7 @@
  },
  "my.dd.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1153,7 +1153,7 @@
  },
  "news.cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1161,7 +1161,7 @@
  },
  "next.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1169,15 +1169,15 @@
  },
  "notifications-platform.rippling.com": {
   "first_seen": "2026-10-24T10:01:16.379757+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 404,
+  "tech": "Cloudflare,Cloudflare Bot Management,HSTS,HTTP/3",
+  "title": ""
  },
  "ns1.dcgn-fe.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1185,7 +1185,7 @@
  },
  "ns2.link.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1193,7 +1193,7 @@
  },
  "ns4.dd.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1201,7 +1201,7 @@
  },
  "owa.dcgn-fe.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1209,7 +1209,7 @@
  },
  "partnerhub.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1217,7 +1217,7 @@
  },
  "phabricator.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1225,7 +1225,7 @@
  },
  "portal.cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1233,7 +1233,7 @@
  },
  "practice.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1241,7 +1241,7 @@
  },
  "preview.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1249,7 +1249,7 @@
  },
  "preview.dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1257,15 +1257,15 @@
  },
  "preview.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 302,
+  "tech": "Cloudflare,Cloudflare Bot Management,Cloudflare Browser Insights,HSTS,HTTP/3",
+  "title": "302 Found"
  },
  "preview.us1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1273,7 +1273,7 @@
  },
  "privacy.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1281,7 +1281,7 @@
  },
  "private.ats.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1289,7 +1289,7 @@
  },
  "prod-images.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1297,7 +1297,7 @@
  },
  "prod-perftest.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1305,7 +1305,7 @@
  },
  "prod.dd.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1321,15 +1321,15 @@
  },
  "r.see.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 404,
+  "tech": "Envoy",
+  "title": ""
  },
  "remote.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1337,7 +1337,7 @@
  },
  "reports.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1345,7 +1345,7 @@
  },
  "rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1353,7 +1353,7 @@
  },
  "s3.dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1361,7 +1361,7 @@
  },
  "saad-report.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1369,7 +1369,7 @@
  },
  "sandbox.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1377,7 +1377,7 @@
  },
  "sandbox.a-cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1385,7 +1385,7 @@
  },
  "sandbox.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1393,15 +1393,15 @@
  },
  "sava.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": true,
-  "status": 200,
-  "tech": "Amazon CloudFront,Amazon Web Services,HTTP/3",
-  "title": "storybook - Storybook"
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
  },
  "secure.app.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1409,7 +1409,7 @@
  },
  "see.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1425,7 +1425,7 @@
  },
  "sso.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1433,7 +1433,7 @@
  },
  "st3g1ng.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1441,7 +1441,7 @@
  },
  "stage.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1457,7 +1457,7 @@
  },
  "staging-marketing.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1465,7 +1465,7 @@
  },
  "staging.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1473,7 +1473,7 @@
  },
  "staging.a-cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1481,7 +1481,7 @@
  },
  "staging.dcgn-fe.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1489,7 +1489,7 @@
  },
  "staging.dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1497,7 +1497,7 @@
  },
  "static-app.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1505,7 +1505,7 @@
  },
  "stats.app.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1513,7 +1513,7 @@
  },
  "status-test.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1521,7 +1521,7 @@
  },
  "status.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1537,7 +1537,7 @@
  },
  "store.ats.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1545,7 +1545,7 @@
  },
  "stream.ats.us1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1553,7 +1553,7 @@
  },
  "success.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1569,7 +1569,7 @@
  },
  "support.a-cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1577,7 +1577,7 @@
  },
  "support.ats.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1585,7 +1585,7 @@
  },
  "support.cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1593,7 +1593,7 @@
  },
  "support.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1601,15 +1601,15 @@
  },
  "swag.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 200,
+  "tech": "HSTS",
+  "title": ""
  },
  "test.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1617,7 +1617,7 @@
  },
  "test.dd.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1625,7 +1625,7 @@
  },
  "trust.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1633,7 +1633,7 @@
  },
  "try.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1649,7 +1649,7 @@
  },
  "ui-kit.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1657,7 +1657,7 @@
  },
  "university.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1665,7 +1665,7 @@
  },
  "url4456.rippling.com": {
   "first_seen": "2026-11-18T01:07:09.303433+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1673,7 +1673,7 @@
  },
  "url5373.rippling.com": {
   "first_seen": "2026-11-21T06:02:32.639258+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1681,7 +1681,7 @@
  },
  "us1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1689,7 +1689,7 @@
  },
  "v1.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1697,7 +1697,7 @@
  },
  "v3.a-api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1705,7 +1705,7 @@
  },
  "view.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1713,7 +1713,7 @@
  },
  "vista.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1721,7 +1721,7 @@
  },
  "vpn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1729,7 +1729,7 @@
  },
  "web.a-cdn.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1737,7 +1737,7 @@
  },
  "web.app.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1745,7 +1745,7 @@
  },
  "webinars-zuddl.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1753,7 +1753,7 @@
  },
  "wiki.app.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1769,7 +1769,7 @@
  },
  "ww2.dcgn-md.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1777,15 +1777,15 @@
  },
  "www-a.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": true,
-  "status": 307,
-  "tech": "HSTS,Vercel",
-  "title": ""
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
  },
  "www-b.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1793,8 +1793,8 @@
  },
  "www-c.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": true,
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": false,
   "status": null,
   "tech": null,
   "title": null
@@ -1809,7 +1809,7 @@
  },
  "www-d.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1817,7 +1817,7 @@
  },
  "www-e.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1825,7 +1825,7 @@
  },
  "www-f.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1833,15 +1833,15 @@
  },
  "www-g.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": true,
-  "status": 307,
-  "tech": "HSTS,Vercel",
-  "title": ""
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
  },
  "www-h.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1849,15 +1849,15 @@
  },
  "www-i.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 307,
+  "tech": "HSTS,Vercel",
+  "title": ""
  },
  "www-j.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1873,23 +1873,23 @@
  },
  "www-k.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 307,
+  "tech": "HSTS,Vercel",
+  "title": ""
  },
  "www-l.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 302,
+  "tech": "HSTS,Vercel",
+  "title": ""
  },
  "www-m.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1905,7 +1905,7 @@
  },
  "www-n.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1913,7 +1913,7 @@
  },
  "www-o.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1921,7 +1921,7 @@
  },
  "www-p.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1929,7 +1929,7 @@
  },
  "www-preprod.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1937,7 +1937,7 @@
  },
  "www-preview1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1945,7 +1945,7 @@
  },
  "www-preview2.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1953,7 +1953,7 @@
  },
  "www-preview3.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1961,7 +1961,7 @@
  },
  "www-q.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1969,7 +1969,7 @@
  },
  "www-r.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1977,7 +1977,7 @@
  },
  "www-s.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -1985,15 +1985,15 @@
  },
  "www-sales.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": false,
-  "status": null,
-  "tech": null,
-  "title": null
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": true,
+  "status": 302,
+  "tech": "HSTS,Vercel",
+  "title": ""
  },
  "www-staging-prod.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2001,7 +2001,7 @@
  },
  "www-staging.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2009,7 +2009,7 @@
  },
  "www-t.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2017,7 +2017,7 @@
  },
  "www-u.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2025,7 +2025,7 @@
  },
  "www-v.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2033,7 +2033,7 @@
  },
  "www-vibes.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2041,7 +2041,7 @@
  },
  "www-w.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2049,7 +2049,7 @@
  },
  "www-x.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2057,7 +2057,7 @@
  },
  "www-y.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2065,7 +2065,7 @@
  },
  "www-z.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2073,7 +2073,7 @@
  },
  "www.65edb7671a4b484c9f147594e84dd908.api.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2193,7 +2193,7 @@
  },
  "www.help.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2217,7 +2217,7 @@
  },
  "www.jenkins.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2233,7 +2233,7 @@
  },
  "www.jpmc.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2241,7 +2241,7 @@
  },
  "www.jpmcds.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2249,7 +2249,7 @@
  },
  "www.jpmcuat.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2257,7 +2257,7 @@
  },
  "www.jpmcuatds.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2305,7 +2305,7 @@
  },
  "www.phabricator.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2345,7 +2345,7 @@
  },
  "www.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2705,7 +2705,7 @@
  },
  "www2.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2713,7 +2713,7 @@
  },
  "your.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2721,7 +2721,7 @@
  },
  "zendesk1.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2729,7 +2729,7 @@
  },
  "zendesk2.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
@@ -2737,15 +2737,15 @@
  },
  "zendesk3.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
-  "resolved": true,
-  "status": 403,
-  "tech": "Cloudflare,HSTS",
-  "title": ""
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
+  "resolved": false,
+  "status": null,
+  "tech": null,
+  "title": null
  },
  "zendesk4.rippling.com": {
   "first_seen": "2026-10-22T08:21:06.042217+00:00",
-  "last_seen": "2026-11-24T04:27:09.974984+00:00",
+  "last_seen": "2026-11-24T17:35:50.027671+00:00",
   "resolved": false,
   "status": null,
   "tech": null,
