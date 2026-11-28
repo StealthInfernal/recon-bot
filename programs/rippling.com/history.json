@@ -1458,5 +1458,16 @@
   "new": [],
   "new_count": 0,
   "total": 345
+ },
+ {
+  "changed": [
+   "a-api.rippling.com",
+   "a-cdn.rippling.com"
+  ],
+  "changed_count": 2,
+  "date": "2026-11-28T01:42:01.812739+00:00",
+  "new": [],
+  "new_count": 0,
+  "total": 345
  }
 ]
